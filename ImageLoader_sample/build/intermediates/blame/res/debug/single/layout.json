@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_gallery.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\fr_image_gallery.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_image.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\item_grid_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\ac_home.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\ac_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_image.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\item_list_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\ac_complex.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\ac_complex.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_gallery_image.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\item_gallery_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_pager.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\fr_image_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_grid.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\fr_image_grid.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_list.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\fr_image_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\layout\\widget.xml"
+    }
+]

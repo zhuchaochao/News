@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\AdroidStudio\android-studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidAndJs" />
+            <option value="$PROJECT_DIR$/ImageLoader_library" />
+            <option value="$PROJECT_DIR$/ImageLoader_sample" />
+            <option value="$PROJECT_DIR$/Jpush_example" />
+            <option value="$PROJECT_DIR$/OkHttpUtils-master_sample" />
+            <option value="$PROJECT_DIR$/PhotoView_library" />
+            <option value="$PROJECT_DIR$/PhotoView_sample" />
+            <option value="$PROJECT_DIR$/PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/PullToRefresh_sample" />
+            <option value="$PROJECT_DIR$/RefreshListView" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttpserver" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttputils_library" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/xUtils3" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

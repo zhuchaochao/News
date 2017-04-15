@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:2:11-49
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:7:5-33:19
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:12:9-40
+activity#uk.co.senab.photoview.sample.LauncherActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:14:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:18:27-74
+activity#uk.co.senab.photoview.sample.SimpleSampleActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:22:19-55
+activity#uk.co.senab.photoview.sample.ViewPagerActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:24:19-52
+activity#uk.co.senab.photoview.sample.RotationSampleActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:26:19-57
+activity#uk.co.senab.photoview.sample.PicassoSampleActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:28:19-56
+activity#uk.co.senab.photoview.sample.ActivityTransitionActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:30:19-61
+activity#uk.co.senab.photoview.sample.ActivityTransitionToActivity
+ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml:32:19-63
+uses-sdk
+INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [News:PhotoView_library:unspecified] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\News\PhotoView_library\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\AndroidStudioProjects\News\PhotoView_sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\News\PhotoView_sample\src\main\AndroidManifest.xml

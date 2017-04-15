@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.zcc.news"
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile project(':SlidingMenu_library')
+    compile project(':xutils')
+    compile files('libs/gson-2.3.1.jar')
+    compile project(':ViewPagerIndicator_library')
+    compile files('libs/glide-3.7.0.jar')
+    compile project(':PullToRefresh_library')
+    compile files('libs/volley.jar')
+    compile 'com.android.support:design:23.1.1'
+    compile files('libs/jpush-android_v3.0.1.jar')
+    compile files('libs/jcore-android_v1.1.0.jar')
+    compile project(':ImageLoader_library')
+    compile project(':PhotoView_library')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile project(':okhttpserver')
+    compile project(':okhttputils')
+}

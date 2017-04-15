@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_error.png",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_stub.png",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\drawable-mdpi\\ic_stub.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_empty.png",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\drawable-mdpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\News\\ImageLoader_sample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

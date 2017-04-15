@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\Jpush_example\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\Jpush_example\\res\\layout\\customer_notitfication_layout_one.xml"
+    }
+]

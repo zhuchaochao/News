@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News\\PullToRefresh_library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News\\PullToRefresh_library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\android.png",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News\\PullToRefresh_library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    }
+]

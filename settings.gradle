@@ -1,0 +1,7 @@
+include ':app', ':SlidingMenu_library', ':xutils', ':xUtils3', ':RefreshListView', ':AndroidAndJs', ':Jpush_example', ':ImageLoader_sample', ':ImageLoader_library', ':PhotoView_sample', ':PhotoView_library', ':sample-okhttp', ':okhttputils_library', ':OkHttpUtils-master_sample', ':okhttpserver', ':okhttputils'
+include ':ViewPagerIndicator_library'
+include ':ViewPagerIndicator_sample'
+include ':PullToRefresh_library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':PullToRefresh_sample'

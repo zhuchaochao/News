@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\AndroidStudioProjects\\News\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\News\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    }
+]
